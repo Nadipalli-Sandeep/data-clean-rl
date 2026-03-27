@@ -1,17 +1,14 @@
 ---
-
-title: DataCleanRL Environment Server
-emoji: 🧹
-colorFrom: blue
-colorTo: purple
-sdk: docker
+title: "DataCleanRL Environment Server"
+emoji: "🧹"
+colorFrom: "blue"
+colorTo: "purple"
+sdk: "docker"
 pinned: false
 app_port: 8000
-base_path: /web
+base_path: "/web"
 tags:
-
-* openenv
-
+  - openenv
 ---
 
 # 🧹 DataCleanRL — Data Cleaning RL Environment
